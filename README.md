@@ -52,13 +52,13 @@ Design a statistical study to compare vehicle performance of the MechaCar vehicl
   With the above statistical models and testing it would be of the best interest of MechaCar to analyze production metrics of other vehicles and lots. Having relatively similar data for vehicles would allow comparison between MechaCars production and its competition. Such data should include vehicle production and performance specifications. Many metrics could be tested to identify cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
 
 #### The Hypothesis
-In order to properly test and build models a null and alternative hypothesis is needed. My hypothesis could be derived around the question "Is a car's spoiler angle related to mpg?"
+In order to properly test and build models a null and alternative hypothesis is needed. My hypothesis could be derived around the question "Is a MechaCar's saftey rating effective comparable to the competition?"
 
-Null Hypothesis is it likely that spoiler angle has no relation to mpg and there will be not be sufficient evidence of a relationship?
+For the null hypothesis, is it likely that the safety rating has a relation to it's competition and will there be sufficient evidence in relation?
 
-Alternate Hypothesis would be, will there be sufficient evidence of a relationship to reject the null hypothesis?
+As for an alternate hypothesis, will there be sufficient evidence of a relationship to reject the null hypothesis of safety ratings?
 
 #### Testing
-Similar multiple linear regression models and t-tests could be used on the vehicle data with a significance level of 0.05%.
+Similar multiple linear regression models and t-tests could be used on the vehicle data with a significance level of 0.05% in order to compare safety ratings from different lots of Mechacar comparable to it's competition.
 
 
